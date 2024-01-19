@@ -26,21 +26,17 @@ public class AmazonWorkflowTest {
 
     @Test(priority = 0)
     public void testAmazonWorkflow() {
-        homePage.searchForProduct("boat headphone");
-        productPage.clickOnFirstItem();
-        productPage.isColorButtonPresent();
-        productPage.assertIsColorButtonPresent();
-        productPage.clickOnColorButton();
+        homePage.searchForProduct("boat headphones");
+        Assert.assertTrue(productPage.clickOnFirstItem());
+        Assert.assertTrue(productPage.isColorButtonPresent());
+        Assert.assertTrue(productPage.clickOnColorButton());
         //productPage.assertClickOnColorButton();
-        productPage.addToCart();
-        productPage.assertAddToCart();
-        checkoutPage.proceedToCheckout();
-        checkoutPage.assertProceedToCheckout();
+        Assert.assertTrue(productPage.addToCart());
+        Assert.assertTrue(checkoutPage.proceedToCheckout());
     }
 
     @AfterClass
     public void tearDown() {
-
         if (driver != null) {
             driver.quit();
         }

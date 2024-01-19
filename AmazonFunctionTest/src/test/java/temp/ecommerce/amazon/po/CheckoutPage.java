@@ -9,15 +9,24 @@ public class CheckoutPage extends BasePage {
     @FindBy(xpath = "//input[@aria-labelledby='attach-sidesheet-checkout-button-announce']")
     private WebElement proceedToCheckoutButton;
 
+    @FindBy(id = "proceed-to-checkout-action")
+    private WebElement checkoutButton;
+
     public CheckoutPage(WebDriver driver) {
         super(driver);
     }
 
-    public void proceedToCheckout() {
-        proceedToCheckoutButton.click();
+    public boolean proceedToCheckout() {
+        try {
+            proceedToCheckoutButton.click();
+            return true;
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return false;
     }
 
-    public void assertProceedToCheckout() {
-        proceedToCheckout();
-    }
+
 }

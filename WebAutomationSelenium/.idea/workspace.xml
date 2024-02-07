@@ -21,17 +21,58 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/CreateAccount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/MyAccountPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/TestScenarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/po/AddToCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/po/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/po/CheckoutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/po/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/po/ProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/tc/AmazonWorkflowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/java/temp/ecommerce/amazon/util/BrowserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/resources/chromedriver-linux64/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonFunctionTest/src/test/resources/chromedriver-linux64/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/po/AddToCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/po/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/po/CheckoutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/po/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/po/ProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/tc/AmazonWorkflowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/java/temp/ecommerce/amazon/util/BrowserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/resources/chromedriver-linux64/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium1/src/test/resources/chromedriver-linux64/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/TestNG_Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/TestNG_Assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/TestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/methods/ScientificCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/methods/ScientificCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/libraries/testng_7_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/TestNG_Assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/TestSuite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/methods/ScientificCalculator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/tests/TestSuite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,26 +100,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestScenarios.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.CreateAccount.executor": "Run",
-    "TestNG.HomePageTest.executor": "Run",
-    "TestNG.MyAccountPage.addToCompare.executor": "Run",
-    "TestNG.MyAccountPage.executor": "Run",
-    "TestNG.SignInPage.executor": "Run",
-    "TestNG.TestScenarios.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/knoldus/IdeaProjects/WebAutomationSelenium",
-    "onboarding.tips.debug.path": "/home/knoldus/IdeaProjects/WebAutomationSelenium/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestScenarios.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.CreateAccount.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountPage.addToCompare.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenarios.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/knoldus/IdeaProjects/WebAutomationSelenium&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/knoldus/IdeaProjects/WebAutomationSelenium/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f95087f-451f-48ca-b8e5-ad770c66be67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pages/ComparePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pages/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pages/WishlistPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/util/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/CreateAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/TestScenarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/TestNG_Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/TestNG_Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/ScientificCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/src/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/src/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/methods/ScientificCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/methods/ScientificCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNG_Assignment1/src/main/java/temp/testng/tests/TestSuite.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bz5MNtqOAXcUqYUB4YaNPO3Xwz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestScenarios.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CreateAccount.executor": "Run",
+    "TestNG.HomePageTest.executor": "Run",
+    "TestNG.MyAccountPage.addToCompare.executor": "Run",
+    "TestNG.MyAccountPage.executor": "Run",
+    "TestNG.SignInPage.executor": "Run",
+    "TestNG.TestScenarios.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/knoldus/IdeaProjects/WebAutomationSelenium",
+    "onboarding.tips.debug.path": "/home/knoldus/IdeaProjects/WebAutomationSelenium/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.test" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.test" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.MyAccountPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountPage.addToCompare" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.test" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.MyAccountPage" />
+      <option name="METHOD_NAME" value="addToCompare" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyAccountPage" />
+        <item itemvalue="TestNG.MyAccountPage.addToCompare" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f95087f-451f-48ca-b8e5-ad770c66be67" name="Changes" comment="" />
+      <created>1707203917837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707203917837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
